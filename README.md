@@ -20,7 +20,7 @@ Other: Git, Agile, Cucumber, Docker, Jira
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardospatafora&show_icons=true&theme=Onedark&cache_seconds=0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardospatafora&layout=compact&theme=Onedark&cache_seconds=0)) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardospatafora&layout=compact&theme=Onedark&cache_seconds=0))
 
 
 ### 🌐 How to Reach Me
