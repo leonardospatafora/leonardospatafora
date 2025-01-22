@@ -19,8 +19,8 @@ Other: Git, Agile, Cucumber, Docker, Jira
 
 ### 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardospatafora&show_icons=true&theme=Synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardospatafora&layout=compact&theme=Synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardospatafora&show_icons=true&theme=Tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardospatafora&layout=compact&theme=Tokyonight)
 ---
 
 ### 🌐 How to Reach Me
